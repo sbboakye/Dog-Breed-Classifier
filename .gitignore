@@ -1,0 +1,9 @@
+.DS_Store
+dogImages/
+lfw/
+saved_models/
+.ipynb_checkpoints
+myimages/
+bottleneck_features/
+__pycache__/
+__MACOSX/
